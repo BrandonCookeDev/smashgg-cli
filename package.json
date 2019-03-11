@@ -1,0 +1,39 @@
+{
+  "name": "smashgg-cli",
+  "version": "1.0.0",
+  "description": "Command Line Interface that interacts with smashgg.js to allow users quick access to information about smashgg objects",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "smash",
+    "gg",
+    "smashgg",
+    "cli",
+    "tournaments",
+    "tournament",
+    "melee",
+    "sfv",
+    "street",
+    "fighter",
+    "tekken",
+    "blaz",
+    "blue",
+    "skull",
+    "girls",
+    "wiiU",
+    "wii",
+    "gamecube",
+    "smash",
+    "bros"
+  ],
+  "author": "Brandon Cooke <BrandonCookeDev@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.2",
+    "smashgg.js": "^4.0.1"
+  }
+}
