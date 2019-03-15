@@ -35,5 +35,8 @@
     "commander": "^2.19.0",
     "inquirer": "^6.2.2",
     "smashgg.js": "^4.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1"
   }
 }
