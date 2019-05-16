@@ -1,0 +1,1 @@
+from smashggpy.models.Tournament import Tournament
